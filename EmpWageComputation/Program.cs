@@ -7,7 +7,7 @@ namespace EmpWageComputation2
     {
         static void Main(string[] args)
         {
-            UC6.DaysOrHours();
+            UC7.Refactor();
             Console.ReadLine();
         }
     }
