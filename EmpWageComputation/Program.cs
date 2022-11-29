@@ -5,7 +5,7 @@ namespace EmpWageComputation2
     {
         static void Main(string[] args)
         {
-            UC2.EmpWage();
+            UC3.AddPartTime();
             Console.ReadLine();
         }
     }
